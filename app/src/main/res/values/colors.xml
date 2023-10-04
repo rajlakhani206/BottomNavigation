@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bootom_nav_background">#00BCD4</color>
+    <color name="bottom_nav_items">@color/black</color>
+    <color name="bottom_nav_selected_items">@color/black</color>
+    <color name="fragment_bg_color">#2196F3</color>
+</resources>
